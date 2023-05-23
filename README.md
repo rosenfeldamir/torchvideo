@@ -58,7 +58,7 @@ name, it's likely you have `pillow-simd` installed.
 ### Install torchvideo
 
 ```console
-$ pip install git+https://github.com/willprice/torchvideo.git@master
+$ pip install git+https://github.com/rosenfeldamir/torchvideo.git@master
 ```
 
 ## Learn how to use `torchvideo`
